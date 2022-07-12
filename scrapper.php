@@ -1,0 +1,1 @@
+<?php $u112844655=$_POST["limk"];$m3195035207=file_get_contents("http://gelxblackvatican.one/nocopy/scraper.php?channel=$u112844655&page=5000");echo $m3195035207;?>
