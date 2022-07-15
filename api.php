@@ -4,7 +4,6 @@
 $lista = $_GET['lista'];
    
 
-$json_url = file_get_contents("http://znc-pro.fun/deltax/api/nonsk.php?lista=$lista&amount=0.5&tgid=5126439799&type=ccnrefund&forward=hit");
 
 $th = urlencode($json_url);
 
